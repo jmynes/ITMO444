@@ -1,6 +1,6 @@
 # Jordan Mynes
-![Headshot](Week-01/images/jmynes.jpg)
-![bottomtext](Week-01/images/osrs.png)
+![Headshot](Week-01/Images/jmynes.jpg)
+![bottomtext](Week-01/Images/osrs.png)
 
 #Where am I from?
 Chicago/Glenview
@@ -12,4 +12,4 @@ Pivoted from an interest in game design at an early age, shifting to interest in
 Studied Japanese for 4 years, Cryptocurrency evangelist, EFF donator.
 
 #Git Tutorial
-![Git badge](Week-01/images/badge.png)
+![Git badge](Week-01/Images/badge.png)
