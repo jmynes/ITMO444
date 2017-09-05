@@ -1,1 +1,1 @@
-![Screenshot](Images/packervagrant.png)
+![Screenshot](Images/packer-vagrant.png)
